@@ -28,7 +28,7 @@
     <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img align="center" alt="vue" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png">
+    <img align="center" alt="vue" heigth="25" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png">
   </a>
 
   </div>

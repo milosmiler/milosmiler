@@ -10,4 +10,26 @@
   </div>
 </div>
 
+<div align="center" valign="top"><br>
+
+ <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
+
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+ 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  </a>
+
+  </div>
+
+
+
 

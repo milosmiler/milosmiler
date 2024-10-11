@@ -30,6 +30,9 @@
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img align="center" alt="vue" heigth="25" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png">
   </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img align="center" alt="vue" heigth="25" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
+  </a>
 
   </div>
 
